@@ -4,7 +4,7 @@ using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class QuadraticFunction : MonoBehaviour
+public class QuadraticFunction
 {
     public float a;
     public float b;

@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2024-gd2b-m5.sln"
+    "dotnet.defaultSolution": "wiskunde.sln"
 }
